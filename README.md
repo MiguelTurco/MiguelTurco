@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gardzock&theme=dracula" alt="gardzock" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin for Minecraft Development and Luau for Roblox Development.**
-
 - 👨‍💻 All of my projects are available at [gardzock-dev.vercel.app](gardzock-dev.vercel.app)
 
 - 📫 How to reach me **gardzock.contato@gmail.com**
