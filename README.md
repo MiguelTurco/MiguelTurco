@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm GardZock</h1>
+<h1 align="center">Hi 👋, I'm Miguel Turco</h1>
 <h3 align="center">A developer always looking for new challenges.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gardzock&theme=dracula" alt="gardzock" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [gardzock-dev.vercel.app](gardzock-dev.vercel.app)
 
-- 📫 How to reach me **gardzock.contato@gmail.com**
+- 📫 How to reach me **miguel.tre.turco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
