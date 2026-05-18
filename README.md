@@ -19,7 +19,7 @@
 - 🚀 Lead developer currently building **Hectara**, an offline-first agricultural management platform with AI-driven notifications.
 - 🐧 Linux enthusiast (Arch / Mint), customizing environments for maximum productivity.
 - 💡 Exploring containerization with Docker and optimizing API and monorepo structures.
-- 🌐 Check out all my projects at my portfolio: [gardzock.dev](https://gardzock.dev)
+- 🌐 Check out all my projects at my portfolio: [gardzock.dev](https://www.gardzock.dev/)
 
 ---
 
